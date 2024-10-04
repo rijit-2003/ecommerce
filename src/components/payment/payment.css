@@ -1,0 +1,6 @@
+.accordion-button::after{
+    width: 0em;
+}
+.accordion-button:not(.collapsed){
+    background-color: white;
+}

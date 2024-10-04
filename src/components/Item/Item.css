@@ -1,0 +1,18 @@
+.itemmain .card:hover,.eachitem .card:hover{
+  transform: scale(1.019);
+  transition: transform 0.3s ease;
+  cursor:pointer;
+
+}
+.wishlist-icon {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .wishlist-icon.active {
+    color: red;
+  }
+  

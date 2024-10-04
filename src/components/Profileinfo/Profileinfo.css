@@ -1,0 +1,27 @@
+.sidebar ul li a{
+    font-size: 18px;
+    color:black;
+    
+}
+.sidebar ul li {
+    padding:1em 4em;
+    align-items: center;
+    cursor: pointer;
+}
+.sidebar ul li:hover{
+    background-color:rgb(206, 255, 255);
+}
+.sidebar ul h4{
+    padding-top:1em;
+    padding-bottom: 0.5em;
+    padding-left:2.5em;
+}
+.sidebar ul{
+    padding-left: 0em;
+}
+#color{
+    padding:2em 10em;
+    /* height:100vh; */
+    background-color: rgb(188, 55, 55); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgb(179, 253, 253), rgb(220, 173, 254));
+}

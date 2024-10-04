@@ -1,0 +1,2254 @@
+
+{
+    "products": [
+        
+        {
+            "name": "TRESemme Smooth & Shine Conditioner-190ml",
+            "newprice": 259,
+            "oldprice": 399,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1rsalYxQizOrW3nXNblGr3iU_0WGWJkmt&sz=w1000",
+            "description": "For Anti-dandruff, Anti-hair Fall, Color Protection, Conditioning, Daily Care, Deep Conditioning, Damage Repair, Frizz Control, Hair Shine, Nourishment & Moisturization, Hair Volumizing, Split-ends, Scalp Cleansing \n- For Normal Hair \n- Suitable For All Hair Types \n- Women Conditioner",
+            "category":"Hair Care",
+            "type":"Conditioner"
+        },
+        {
+            "name": "DOVE Hair Fall rescue conditioner (335 ml)",
+            "newprice": 229,
+            "oldprice": 339,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1o76oySQ6-MtXDZpjcB7IW3K_BJdCtpxG",
+            "description": " Dove Nutritive Solutions Hair Fall Rescue Conditioner deeply nourishes fragile hair from roots up for better hair fall* control. Fortify hair fibers with every wash. Enriched with Nutrilock Actives, the nourishing formula immediately seals cuticles and strengthens your hair to minimize breakage. ",
+            "category":"Hair Care",
+            "type":"Conditioner"
+        },
+        {
+            "name": "L'Oréal Professionnel Liss Unlimited Hair Mask (250 g)",
+            "newprice": 699,
+            "oldprice": 860,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1jVu8bcKjgs4Ni1DDA6CSMz3vDJ-bJJQg",
+            "description": "Expert smoothing mask to tame frizzy hair. Loreal Professionnel Serie Expert Liss Unlimited Hair Mask controls frizzy hair for upto 96 hours with the power of Pro-Keratin complex. Leaves hair feeling soft, smooth and shiny. ",
+            "category":"Hair Care",
+            "type":"Conditioner"
+        },
+        {
+            "name": "L'Oréal Paris Dream Lengths Conditioner",
+            "newprice": 184,
+            "oldprice": 249,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1BwO63jOy8OdCC9wHDGieaN96Pp2K-Moj",
+            "description": "A perfect conditioner for dry and damaged hair, the Dream Lengths Detangling Conditioner instantly detangles long hair for smoother hair with less breakage. Get rid of knots and tangles and achieve all your goals of soft, smooth, and shiny hair with this LorealConditioner. ",
+            "category":"Hair Care",
+            "type":"Conditioner"
+        },
+        {
+            "name": "LIVON Hair Serum for Women & Men (100ml)",
+            "newprice": 210,
+            "oldprice": 320,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1GYho7TQogVQQqdDey3S8JFlK2hDzm9xw",
+            "description": "The Livon Hair Serum is the ideal solution for those bad-hair-day woes. This serum cuts through the frizz and flyaways to give you salon finish hair.",
+            "category":"Hair Care",
+            "type":"Hair Serum"
+        },
+        {
+            "name": "L'Oréal Paris Total Repair 5 Serum - 80ml",
+            "newprice": 199,
+            "oldprice": 299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1ZMA7mNt7N6Zgk9b0u62cPIMONN82inwh",
+            "description": "he Loreal Paris Total Repair 5 Smoothing & Nourishing Oil Serum has been formulated to give you those silky smooth locks to flaunt with no damage involved at all. The serum has an oily composition that smoothes over each strand of hair and keeps your mane feeling velvety smooth. ",
+            "category":"Hair Care",
+            "type":"Hair Serum"
+        },
+        {
+            "name": "L'Oreal Paris Extraordinary Oil Serum, 100 ml",
+            "newprice": 499,
+            "oldprice": 599,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1FhzfuE2oeftUGV_OLy30mpgzaQy7Pg2x",
+            "description": "ntroducing the L'Oral Paris Extraordinary Oil Serum, a luxurious multi-use hair serum that will give your hair a complete transformation! This leave-in hair treatment leaves you with extraordinarily soft, smooth, frizz free and shiny hair. ",
+            "category":"Hair Care",
+            "type":"Hair Serum"
+        },
+        {
+            "name": "MATRIX OPTI.CARE Professional Hair Serum - 100ml",
+            "newprice": 400 ,
+            "oldprice": 530,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1VBz92FWl14EFcdrbLwr7UZs2Ghsn1xwa",
+            "description": "STYLIST FAVORITE: Matrix Professional haircare is used by 100000+ Hair Stylists in salons*. LIGHT & NON-GREASY: Shea Butter enriched Matrix Opti.Care Split End Hair Serum leaves hair silky smooth with a reflective shine.",
+            "category":"Hair Care",
+            "type":"Hair Serum"
+        },
+        {
+            "name": "Vedix Customised Ayurvedic Hair Fall Serum - 30ml",
+            "newprice": 479,
+            "oldprice": 649,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1pOZBjK61pQd_Wa8A9YTz4Ok74KgJmYZi",
+            "description": "Ayurvedic serum that provides nourishment from the roots to regulate moderate hair fall and hair thinning. Vedix Prachay Serum For Moderate Hair Fall With Green Tea + Ginseng + Moringa is customized with herbs that work together to reduce hair fall and repair damaged hair. ",
+            "category":"Hair Care",
+            "type":"Hair Serum"
+        },
+        {
+            "name": "TRESemme Keratin Repair Bond Plex Oil Hair Serum - 30ml",
+            "newprice": 419,
+            "oldprice": 499,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1Qh9pj20GfDcCOOMDEPJuGVQBmeP7k3ED",
+            "description": "TRESemme Keratin Repair Bond Plex Oil Hair Serum Hair breaks when hair bonds are weaker. With new TRESemm Keratin Repair Bond Plex Oil Serum, now protect, style & strengthen your hair, making it up to 20x stronger",
+            "category":"Hair Care",
+            "type":"Hair Serum"
+        },
+        {
+            "name": "TRESemme Keratin Smooth Shampoo - 1L",
+            "newprice": 449,
+            "oldprice": 999,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1rrAHY3yf9-NmxXCqb0e3UM2pp_072p8X",
+            "description": "Flaunt your fabulous, shiny, smooth, and luscious hair every single day by using the TRESemme Keratin Smooth Shampoo. This hair care essential helps restore keratin and gives you well-nourished, gorgeous, and manageable hair with every single wash.",
+            "category":"Hair Care",
+            "type":"Shampoo"
+        },
+        {
+            "name": "L'Oréal Paris Hyalurone Moisture - 340 ml",
+            "newprice": 331,
+            "oldprice": 399,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1J3Xwbpn4USVeBtcke5gbyjidQXw7L3rj",
+            "description": "Tired of dry, dull, and lifeless hair? Its time to hydrate your hair with intense moisture, Try the all-new LOral Paris Hyaluron Moisture shampoo that provides long-lasting hydration and re-plumps hair with ease.",
+            "category":"Hair Care",
+            "type":"Shampoo"
+        },
+        {
+            "name": "SUNSILK Stunning Black Shine Shampoo",
+            "newprice": 309,
+            "oldprice": 349,
+            
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1Mi_SLddIcLpnSIlLD1IiR3DRmXgNBL7P",
+            "description": "Tired of dry, dull, and lifeless hair? Its time to hydrate your hair with intense moisture.Try the all-new LOral Paris Hyaluron Moisture shampoo that provides long-lasting hydration and re-plumps hair with ease. This 72H Moisture filling Shampoo instantly fills hair with moisture giving you shiny hair thats full of life",
+            "category":"Hair Care",
+            "type":"Shampoo"
+        },
+        {
+            "name": "L'Oréal Paris Total Repair 5 Repairing Shampoo",
+            "newprice": 499,
+            "oldprice": 999,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1YjsQgYXSC5aKR9PCGgi2UQ8HJ4ULnLPF",
+            "description": "",
+            "category":"Hair Care",
+            "type":"Shampoo"
+        },
+        {
+            "name": "MYEONG Perfect Diamond Emerald Obsessions MIni Eyeshado...",
+            "newprice": 389,
+            "oldprice": 499,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1d4FjVTpf05IxRL99UR3h7z8NV-z7VEt7",
+            "description": "Absolutely new product It is a combination of matte, semi-matte and shimmering eyeshadows.",
+            "category":"Makeup",
+            "type":"Eyeshadow"
+        },
+        {
+            "name": "MAYBELLINE NEW YORK The Blushed Nudes Eyeshadow Palette",
+            "newprice": 702,
+            "oldprice": 905,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1ZyyR7mJP_SpYunjp-vL7vynebWdFkQzS",
+            "description": "Maybelline introduces The Blushed Nudes eyeshadow palette. With 12 shades, you can use the rose -gold infused nude eye shadow palette to create endless, naturalm and barely-there eye makeup looks.",
+            "category":"Makeup",
+            "type":"Eyeshadow"
+        },
+        {
+            "name": "MARS Dance Of Joy 12 Shade Ultra Pigmented",
+            "newprice": 210,
+            "oldprice": 249,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1kwl0rmb3fBLs3vKzTiijCc3CfNYa_UhB",
+            "description": "Let your excitement flow with MARS Dance with Joy Eyeshadow Palette, The mix of 12 Shimmers, moltes and glitters will give you the option to create endless bright and cheerful looks",
+            "category":"Makeup",
+            "type":"Eyeshadow"
+        },
+        {
+            "name": "Girls Look Multi Shades 18 Colours NUDE EDITION Eyeshadow Palette",
+            "newprice": 219,
+            "oldprice": 299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1sm2HlFMsw0Zp2pcanfk6JWWv8mzjWbeD",
+            "description": "",
+            "category":"Makeup",
+            "type":"Eyeshadow"
+        },
+        {
+            "name": "Glam21 Cosmetics Professional Eyeshadow Palette",
+            "newprice": 519,
+            "oldprice": 399,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1z8wlpKKrm3QFSeiWIOxIwsDFW0lRrJhV",
+            "description": "",
+            "category":"Makeup",
+            "type":"Eyeshadow"
+        },
+        {
+            "name": "MAYBELLINE NEW YORK Fit Me Matte+Poreless Liquid",
+            "newprice": 219,
+            "oldprice": 299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1yB0nge90W6P4HXccnPe6UZeWXL1W80I1",
+            "description": "",
+            "category":"Makeup",
+            "type":"Foundation"
+        },
+        {
+            "name": "Lakmé Perfect Liquid Foundation",
+            "newprice": 150,
+            "oldprice": 182,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1DTogMzILDk-x5ynl4wCZ8B66ZYKoLgpT",
+            "description": "If you’re looking to attain that beautiful skin with the perfect glow, this Lakme Perfect Liquid Foundation is an apt choice. This smudge-free foundation lasts for a long time and spreads evenly to cover spots, blemishes, dark circles, and patchy skin tone.",
+            "category":"Makeup",
+            "type":"Foundation"
+        },
+        {
+            "name": "Lakmé 9 to 5 Complexion Care CC Cream Foundation  (Honey, 30 g)",
+            "newprice": 269,
+            "oldprice": 360,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1Oqq7yhAfte4OkBtezGLPJmT8kB201LDM",
+            "description": "Everyday make-up can take a lot of time and sometimes can even look made-up. If you are looking for a cream that can take care of your delicate skin and give you that glow seamlessly, Lakme 9to5 CC Cream is the perfect choice.",
+            "category":"Makeup",
+            "type":"Foundation"
+        },
+        {
+            "name": "BLUE HEAVEN Hypermatte Foundation- 301 Honey Medium + Yellow, 30 ml Foundation  (301 Honey Medium + Yellow, 30 ml)",
+            "newprice": 160,
+            "oldprice": 225,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=19cHXqXKMZ2rk3JbLEZarEsGFRduUk1tZ",
+            "description": "Blue Heaven Hyper Matte Liquid Foundation is the perfect base to achieve a photo-finish matte look that lasts all day long. It provides buildable coverage, blurs imperfections and gives a natural finish.",
+            "category":"Makeup",
+            "type":"Foundation"
+        },
+        {
+            "name": "MARS Matte Mousse Foundation  (Beige, 60 ml)",
+            "newprice": 319,
+            "oldprice": 340,
+            "rating":4.1,"imageurl":"https://drive.google.com/thumbnail?id=14d0JK2OSK0SfVH2P_v4raUn8qEB3Pf3J",
+            "description": "",
+            "category":"Makeup",
+            "type":"Foundation"
+        },
+        {
+            "name": "Lakmé Eyeconic Kajal Twin Pack  (Deep Black, 0.7 g)",
+            "newprice": 244,
+            "oldprice": 350,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1B3AaAUDUSAW11Cg_nUK44xiorAba-MjV",
+            "description": "Accentuate the beauty of your eyes with the Lakme Eyeconic Kajal. This dermatologically tested kajal is just what you need for completing your eye makeup or carrying a simple, only-kajal look. It's a smudge proof, water proof kajal and can add the dramatic and glamorous look to your eyes. It has intense matte texture for Eyeconic eyes.",
+            "category":"Makeup",
+            "type":"Kajal"
+        },
+        {
+            "name": "MAYBELLINE NEW YORK Colossal Kajal, Pack of 2, Waterproof, Long Stay, Deep Black  (Black, 0.7 g)",
+            "newprice": 229,
+            "oldprice": 378,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1f3N6Af9HF6_QU-6EeMweQluD6H1xvptt",
+            "description": "The new Maybelline New York Colossal kajal gets better. This water proof formula infused with the goodness of Aloe Vera stays up to 24 hours without smudging.",
+            "category":"Makeup",
+            "type":"Kajal"
+        },
+        {
+            "name": "mamaEarth Charcoal Black Long Stay Kajal Black Waterproof,with Vitamin C & Chamomile for 11-Hour Smudge-free Stay  (Black, 0.35 g)",
+            "newprice": 268,
+            "oldprice": 299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=12lXFq3mRHd48J7jSbaJIttP8U0KrIwJl",
+            "description": "Let your eyes do all the talking with the Mamaearth Charcoal Black Long Stay Kajal. Waterproof & smudge-free, the Kajal glides on effortlessly, adding a glossy sheen and a rich color that stays for 11 hours. Not only is the Kajal long-lasting, it is also crafted with the most soothing natural ingredients like Chamomile to give your eyes both color and care.",
+            "category":"Makeup",
+            "type":"Kajal"
+        },
+        {
+            "name": "Plum Eye-Swear-By Kohl Kajal - Deep Black | Smudge-Proof | Water-Proof  (Deep Black, 0.7 g)",
+            "newprice": 440,
+            "oldprice": 550,
+            "rating":4.3,"imageurl":"https://drive.google.com/thumbnail?id=1nZi8gzeZpF6PIj6e63vL6Y4QtmIpo6SW",
+            "description": "",
+            "category":"Makeup",
+            "type":"Kajal"
+        },
+        {
+            "name": "MAYBELLINE NEW YORK Call Me Colossal Kit - Colossal Waterproof Mascara + Colossal Kajal + Colossal Bold Liner with Garnier Micellar Cleansing Water, 125ml  (Black, 205 g)",
+            "newprice": 597,
+            "oldprice": 1112,
+            "rating":4.5,"imageurl":"https://drive.google.com/thumbnail?id=1NSPmGzV47pEYDP-fkSzRgUG2CgftlY_5",
+            "description": "Treat yourself to Maybelline New York's bestselling eye makeup products with Call Me Colossal - Everything You Need To Go 100% Colossal. Define your eyes and enhance their beauty with the Colossal Kajal, get intense, expressive eyes with the Colossal Bold Liner, a smudge-proof and waterproof eyeliner that lasts up to 24H, and flaunt long and voluminous lashes with the Colossal Waterproof Mascara.",
+            "category":"Makeup",
+            "type":"Kajal"
+        },
+        {
+            "name": "COLORS QUEEN Color It All Lip Crayon Lipstick Matte Finish Long Lasting Non Transfer Lipstick  (Make it Happen, 3.5 g)",
+            "newprice": 193,
+            "oldprice": 349,
+            "rating":3.9,"imageurl":"https://drive.google.com/thumbnail?id=1KsEF5akyDlGecru7KziILG0Y0IxB6xrU",
+            "description": "Tint up your lips with the ultra matte weightless perfection. Colors Queen Color It All Lip Crayon Lipstick is designed with 18 hr long lasting, matte finish, and great comfort. Get high pigmentation, feathery soft feel, and a smudge-proof finish all day long. A rich wear to fashion-up your everyday makeup.",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "NYN HUDA Insta Beauty 5 in 1 Forever Enrich Matte Lipstick, The Red & Nude Pack of 2  (The Fab Red and Nude Edition, 15 g)",
+            "newprice": 157,
+            "oldprice": 440,
+            "rating":3.7,"imageurl":"https://drive.google.com/thumbnail?id=1OYX2Xv8iktQ41pA5TszPm1kRHjdwtYdL",
+            "description": "Enjoy this Fab Lipstick that has 5 different shades which will glide smoothly on your lips and give a matte finish with cream texture.",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "Lakmé 9to5 P+M Liquid Lip Color(4.2 ml)",
+            "newprice": 421,
+            "oldprice": 499,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=13Yc8Cx2Nz2rtug4THyw0vyWtP9JARQHB",
+            "description": "New Lakme 9to5 Primer + Matte Liquid Lip Color. A smooth, crease-less matte look for every day, everywhere in every wear. This revolutionary formula with a built-in primer smoothens your lips to give you a crease-less finish.",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "ELLE 18 Color Pop Matte Lip Color Selfie Red, 4.3 g",
+            "newprice": 80,
+            "oldprice": 90,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1tq4DIi-S4FIPXENbaeu9WYmoPqDfSUCB",
+            "description": "The brand for every teenage girl who wants to have fun and look good at the same time is here. The Brand New Range of Matte Lipsticks from the Elle 18 range is here.",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "BLUSHIS Non Transfer Smudge Proof Longlasting Sensation",
+            "newprice": 99,
+            "oldprice": 149,
+            "rating":3.9,"imageurl":"https://drive.google.com/thumbnail?id=1Dn5u-621MpQ3nZHnpJ_Ux9kX9jTs4T_2",
+            "description": "",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "BIOTIQUE Magicolor Lipstick, Bombshell- 4.2g",
+            "newprice": 117,
+            "oldprice": 125,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1WrJN7cxGOGbevZxrSkk1O72FDekcG7db",
+            "description": "Biotique Magicolor is a creamy-smooth textured lipstick that gets you ready for your chic and stylish excursion. The Magicolor comes in 15 fantabulous colours so that your lips step up their glamour-game with every outfit. ",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "mamaEarth Moisture Matte Longstay Lipstick for 12 Hour Espresso Brown, 2 g",
+            "newprice": 423,
+            "oldprice": 489,
+            "rating":4.2,"imageurl":"https://drive.google.com/thumbnail?id=1cKXt4aH6qGCkRunYuy5WGY0oXVPB5LKX",
+            "description": "Finding the right lipstick is like finding a BFF. We’ve made it easy! Meet your match - Mamaearth Moisture Matte Longstay Lipsticks are enriched with the natural goodness of Avocado Oil and Vitamin E.",
+            "category":"Makeup",
+            "type":"Lipstick"
+        },
+        {
+            "name": "HVNLY Blossom Premium Long Lasting",
+            "newprice": 379,
+            "oldprice": 475,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=131fcbHjfcOhKXgf0qAdqCXZN_veifD3Q",
+            "description": "HVNLY Blossom is a timeless woman’s Eau de parfum that celebrates the absolute joy of being a woman. Blossom perfume spray is a fresh floral fragrance that creates an experience filled with cheerful, blissful, and shining moments. ",
+            "category":"Perfume",
+            "type":"Perfume"   
+        },
+        {
+            "name": "Secret temptation Romance Eau de Parfum - 50 ml",
+            "newprice": 302,
+            "oldprice": 389,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ccZMG6NbbXKmE9-8yZJ9A4njvxxzhTyM",
+            "description": "A fragrance for women, the Secret Temptation Romance EDP is designed to bring out the temptress within you while keeping you swathed in a cocoon of light essence.",
+            "category":"Perfume",
+            "type":"Perfume"   
+        },
+        {
+            "name": "ENVY Women Eau de Parfum - 70 ml",
+            "newprice": 236,
+            "oldprice": 299,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=15fJ_0QFFHZbuy06eEIqkQF8R4un3hfZV",
+            "description": "",
+            "category":"Perfume",
+            "type":"Perfume"   
+        },
+        {
+            "name": "La French Luxury Perfume Giftset For Her 4 x 20ml Eau de Parfum - 80 ml  (For Women)",
+            "newprice": 489,
+            "oldprice": 849,
+            "rating":4.3,"imageurl":"https://drive.google.com/thumbnail?id=1RaVoCoTfHCGRnWgbq6BPbpwHnjNbFKZl",
+            "description": "LA' French Perfume for Women is a long-lasting and sensuous fragrance featuring fresh and floral notes that are combined to create an ideal scent for the modern, dreamy yet ambitious woman. ",
+            "category":"Perfume",
+            "type":"Perfume"   
+        },
+        {
+            "name": "Bella vita organic BLU MEN Perfume with Lemon, Mandarin & Black Pepper Notes|Long Lasting Scent| Eau de Parfum - 100 ml  (For Men)",
+            "newprice": 789,
+            "oldprice": 999,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1VTEJ03SlqpFb1LUYMJu1GoPp8X-AJFcO",
+            "description": " BLU Man is for those who love the water, the waves and the me time. Wear it to start your journey of solo exploration as you enjoy the fresh, calm outdoors.",
+            "category":"Perfume",
+            "type":"Perfume"   
+        },
+        {
+            "name": "Fastrack Bold Beat for Girls Eau de Parfum - 100 ml",
+            "newprice": 895,
+            "oldprice": 895,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1bLOOvCARsQdPvDdbTJ1Qpnz5wR25bKef",
+            "description": "",
+            "category":"Perfume",
+            "type":"Perfume"   
+        },
+        {
+            "name": "Minimalist 2% Salicylic Acid Serum for Acne, Blackheads - 30ml",
+            "newprice": 519,
+            "oldprice": 549,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1vWHfuGlz6Y1UUnAuUNyG8FkTGvu2Ibfp",
+            "description": "Fragrance Free, Dye Free, Sulphate Free, Essential Oils Free, Paraben Free, Non Comedogenic",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "Dot & Key 10% Vitamin C+E Face Serum For Glowing Skin, ",
+            "newprice": 414,
+            "oldprice": 499,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=11iJvuIE0c34KJHJdFKvLZGEjWHV8eAbx",
+            "description": "Looking for the perfect glow potion for your skin? Meet Dot & Key 10% Vitamin C+E Super Bright Face Serum powered by Triple Antioxidant Action for even-toned, glowing & firm skin. ",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "Lakmé Absolute Perfect Radiance Skin Brightening Serum",
+            "newprice": 502,
+            "oldprice": 599,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1BualMKQtCgO_7CArfE7mvZrpVPKFk2kk",
+            "description": "Inspired by the illuminate trend, Lakme s Perfect Radiance range is now elevated to a new level of luxury and efficacy. The high-resolution clarity of a crystal is now captured in the New Lakme Absolute Perfect Radiance range. ",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "The Derma Co 2% Salicylic Acid Serum for Acne-30ml",
+            "newprice": 439,
+            "oldprice": 499,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1RTvm1hjg6NcqrMqtpRWrTZWRvhJ49Rio",
+            "description": "Help your skin breathe free of blackheads & whiteheads with the expert pore clarifying solution a.k.a Salicylic Acid. The Derma Co. 2% Salicylic Acid Serum is oil-soluble, which allows it to easily penetrate deep within pores and clear sebum clogs that also cause acne. ",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "The Derma Co 10% Niacinamide Face Serum For Acne Marks-10ml",
+            "newprice": 215,
+            "oldprice": 249,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1UeMM38X8c-lfk_VtL8_Abc2CN1ooyqDZ",
+            "description": "It’s time to bid farewell to acne marks with The Derma Co. Serum. The Derma Co. Serum controls excess sebum production, reduces inflammation, smoothens skin, and improves the appearance of pores and fine lines",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "GARNIER Bright Complete Vitamin C Booster Serum Bright",
+            "newprice": 324,
+            "oldprice": 619,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1pFjihCud6XPy5SZ05oNJ6Izqaea2Kgz6",
+            "description": "HOW TO USE - Cleanse your face with the Garnier Bright Complete Vitamin C Facewash and pat dry. Take a pea sized amount of the Vitamin C Face Serum into the dropper and apply it onto your face.",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "POND's Bright Beauty Spot-less Glow Serum-28ml",
+            "newprice": 307,
+            "oldprice": 480,
+            "rating":4.2,"imageurl":"https://drive.google.com/thumbnail?id=11_0JUL7b__Grl_7AsQM0t_szAZNPwBNj",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "L'Oréal Paris Revitalift HyaluronicAcid Face Serum1.5% -15ml",
+            "newprice": 355,
+            "oldprice": 529,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=106oziqeLP8RZWtvdb2So63HowsE99y5E",
+            "description": "THE #1 FACE SERUM IN THE US MAKES ITS WAY TO INDIA! Get YOUTHFUL, RADIANT, HYDRATED AND SMOOTH skin with the new LOreal Paris Revitalift 1.5% Hyaluronic Acid Serum - OUR HIGHEST CONCENTRATION* OF HYALURONIC ACID in a face serum.",
+            "category":"Skin Care",
+            "type":"Face Serum"   
+        },
+        {
+            "name": "NIVEA Milk Delights Precious Saffron Face Wash-100 ml",
+            "newprice": 132,
+            "oldprice": 185,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1Orh39bE5dcw6csvECUk1l5XkokDNtSyb",
+            "description": "BRIGHTENS SKIN: The preceious saffron helps clean and brighten the skin. UNCLOGS PORES: Unclogs pores and removes impurities like dust, dirt, and sweat. ",
+            "category":"Skin Care",
+            "type":"Face Wash"   
+        },
+        {
+            "name": "Lakmé Blush & Glow Gel - Strawberry, Kiwi, Berry Smash-300g",
+            "newprice": 659,
+            "oldprice": 715,
+            "rating":4.3,"imageurl":"https://drive.google.com/thumbnail?id=1e1bJ9v1lYD_eK5IWABFgtWruf7ghTYqN",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Face Wash"   
+        },
+        {
+            "name": "Everyuth Naturals Lemon & cherry Face Wash-300 g",
+            "newprice": 299,
+            "oldprice": 399,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1CTinCc-M-jW2QmrgdK5NpKBEfane3qTl",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Face Wash"   
+        },
+        {
+            "name": "mamaEarth Tea Tree Natural with Neem for Acne & Pimple-100ml",
+            "newprice": 232,
+            "oldprice": 259,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1tLzvjeXWy-ygnUH7A6xJeRyTlqrqo1XD",
+            "description": "Mamaearth Tea Tree Face Wash, deeply cleanses skin for an effective wash, without stripping it of natural oils.",
+            "category":"Skin Care",
+            "type":"Face Wash"   
+        },
+        {
+            "name": "LOTUS HERBALS WHITEGLOW ACTIVE SKIN WHITENING + OIL CONTROL",
+            "newprice": 110,
+            "oldprice": 165,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1kiA3Uikdc_4skZ645RV8_14v76_aSac2",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Face Wash"   
+        },
+        {
+            "name": "GARNIER Skin Naturals Bright Complete Brightening Face Wash-200g",
+            "newprice": 350,
+            "oldprice": 388,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1tZ_1A8seNHlTwg1Dy2bXFrcB1DJyOsUh",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Face Wash"   
+        },
+        {
+            "name": "NIVEA Soft Light Moisturizer for Face, Hand & Body",
+            "newprice": 149,
+            "oldprice": 199,
+            "rating":4.5,"imageurl":"https://drive.google.com/thumbnail?id=1ls6mvNC4Ov9trz43uE2naQvV8bDnA8vQ",
+            "description": "Get smooth and radiant skin by using this Nivea Moisturiser. This cream suits almost all skin types.",
+            "category":"Skin Care",
+            "type":"Moisturiser"
+        },
+        {
+            "name": "POND's Super Light Gel Oil Free Moisturiser",
+            "newprice": 299,
+            "oldprice": 439,
+            "rating":4.5,
+            "imageurl":"https://drive.google.com/thumbnail?id=1CqvCrLoG8vsU4QBHGAWUoHYads063t6J",
+            "description": "Looking for 24 hours of moisturization for your skin? Look no further! Introducing the all new Ponds Super Light Gel - your go-to moisturizer for all seasons.",
+            "category":"Skin Care",
+            "type":"Moisturiser"
+        },
+        {
+            "name": "Lakmé Peach Milk SPF 24 PA++ Moisturiser-120 ml",
+            "newprice": 179,
+            "oldprice": 279,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1hmzq-r5MH_0ihwSClpRB-qXr9mPhdr2Q",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Moisturiser"
+        },
+        {
+            "name": "mamaEarth Vitamin C Daily Glow Face Cream",
+            "newprice": 231,
+            "oldprice": 249,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1yaD7ud2Sar5r0fP6WT-snGl_imWd4jmr",
+            "description":"",
+            "category":"Skin Care",
+            "type":"Moisturiser"
+        },
+        {
+            "name": "Lakmé Peach Milk Soft Creme-250 g",
+            "newprice": 385,
+            "oldprice": 399,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1pW3yAmwrV5LwjGmSae-P8w7F4GMuJMu-",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Moisturiser"
+        },
+        {
+            "name": "Liril Cooling Mint Body Wash-250ml",
+            "newprice": 149,
+            "oldprice": 210,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1HzPsUvXBPmpyCjjDhp0qmKCEQSo6SMwp",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Showergel"
+        },
+        {
+            "name": "Pears Pure And Gentle Bodywash-250 ml",
+            "newprice": 129,
+            "oldprice": 135,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1m5UuNaE2YDuawHprcneX724gbAmFnrcL",
+            "description": "Start your day with a refreshing bath using the Pears Pure And Gentle Shower Gel. Enriched with glycerin and natural oils, this shower gel cleanses your skin of impurities, while keeping it soft and hydrated.",
+            "category":"Skin Care",
+            "type":"Showergel"
+        },
+        {
+            "name": "NIVEA Body Wash, Waterlily & Oil Shower Gel, Pampering ",
+            "newprice": 199,
+            "oldprice": 225,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ipuP0N2Z6U08_uuQNfXFdEgfS-Hwnl2Z",
+            "description": "With the NIVEA Waterlilly and Oil shower gel soft, supple and gentle skin will be all yours. Its care oil pearls will keep your skin moisturized. ",
+            "category":"Skin Care",
+            "type":"Showergel"
+        },
+        {
+            "name": "DOVE DEEPLY NOURISHING BODY WASH IMPORTED 1000 ML",
+            "newprice": 1185,
+            "oldprice": 1295,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1uYU6jpO7hF2tRgWkIbiDHOZ3sjcBA1fi",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Showergel"
+        },
+        {
+            "name": "FIAMA Blackcurrant & Bearberry Shower Gel",
+            "newprice": 153,
+            "oldprice": 259,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1XEEjiEW2TjH-4DsGHHrOJPJ5MPQT61Md",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Showergel"
+        },
+        {
+            "name": "DOVE Dryness Care Body wash with Jojoba Oil",
+            "newprice": 380,
+            "oldprice": 500,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1kqSGzFjkwW3t09mwXIEGJOe6bHBzsumC",
+            "description": "",
+            "category":"Skin Care",
+            "type":"Showergel"
+        },
+        {
+            "name": "MUSKAN BEAUTY COLLECTION",
+            "newprice": 236,
+            "oldprice": 599,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1N-AJqacucKdX2b9T1mhW_Aii7iD9KbId",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },
+        {
+            "name": "EM DRESSES",
+            "newprice": 187,
+            "oldprice": 250,
+            "rating":3.7,"imageurl":"https://drive.google.com/thumbnail?id=1_P4M5yjGzQqxP3fy0-Q_sOYkmObWWFNC",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "TINY BINY",
+            "newprice": 249,
+            "oldprice": 349,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1EvWLSiFhpjmRoXViAUzUI29C_RuCatJA",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "Pishu Girls Midi",
+            "newprice": 399,
+            "oldprice": 439,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1A691zuxQnYiznpQXnRnXifPIVEuFiREo",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "Vaybee Baby Girl Dress",
+            "newprice": 399,
+            "oldprice": 699,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1DgTesI239Rd0AxGBVrqNmp_32j2YNKve",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "Stinity",
+            "newprice": 389,
+            "oldprice": 599,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1j5sS9WEazp8-i68ho1eKFlFGbLDi13o1",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "Mars Infiniti Boys Dress",
+            "newprice": 475,
+            "oldprice": 699,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1DkQZCpTATBBUs9jR9hp7xXK-esjiU5eP",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "Kidzarea",
+            "newprice": 359,
+            "oldprice": 469,
+            "rating":3.9,"imageurl":"https://drive.google.com/thumbnail?id=1buapC-DqOSIAiZgkPISrx93IPEX_C7GK",
+            "description": "",
+            "category":"Clothing",
+            "type":"Kidsclothing"
+        },       
+        {
+            "name": "Purshottam Wala-Women Dress",
+            "newprice": 459,
+            "oldprice": 712,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=15PhWUOUPL6iywnn3eTXzTsHm1MgSK2Wo",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "MansiCollections- Women Trouser",
+            "newprice": 514,
+            "oldprice": 821,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1PmYdEHDRSJVgkysJdnUDNXgUqTgKaUPT",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Roadster-Women Skirt",
+            "newprice": 589,
+            "oldprice": 630,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1qG38Yu8inRd6rmiXA-Od7QjfR9XKe8Y1",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "BuyNewTrend-Women Shirt",
+            "newprice": 486,
+            "oldprice": 734,
+            "rating":4.2,"imageurl":"https://drive.google.com/thumbnail?id=1G2ifEYOQIUIjqFCD7maf_zdcFDwKj8V1",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "MARISY A-line kurti",
+            "newprice": 397,
+            "oldprice": 450,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1ux2KAeCEy_GkfxiwYvoWZDyFai2Oh2tm",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "KOTTY-Women jeans",
+            "newprice": 586,
+            "oldprice": 840,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1ByJsl5EPmChvDCL5mY0hbTsA11BjMKGN",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Women Solid Pleated Brown Skirt",
+            "newprice": 899,
+            "oldprice": 1399,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1wEmCnaSD889J8qqe2lgN23kJOavh_hwi",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "SASSAFRAS-Women bodycon",
+            "newprice": 583,
+            "oldprice": 899,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1915djtBemt30hIhbkZ3EKrYYVKd0_wru",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Purshottam Wala",
+            "newprice": 439,
+            "oldprice": 896,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=11wY7DPbAcOx6AHPio-CJ0T4honWwdhOJ",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Sheetal Assocites- Women Bodycon",
+            "newprice": 459,
+            "oldprice": 863,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1dCHR6hL2qBWSQuHiWAvju9c-LSMXATT7",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Sintona's Brand",
+            "newprice": 358,
+            "oldprice": 476,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1bacei8ZYgTuppqHWgVnpsh8Bjhb1cR0C",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Sheetal Assocites- Women Bodycon",
+            "newprice": 789,
+            "oldprice": 999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1L8UslER47N9PjkF5AebiDRj4Nx0uzK4t",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "Tokyo Talkies - Women Top ",
+            "newprice": 432,
+            "oldprice": 720,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1pf2F4OYnPQNjsOzvcQ43cpj334k1wdSZ",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "QUINTESSENTIALS - Casual Top",
+            "newprice": 315,
+            "oldprice": 489,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1rFioRdMLH5oiYw2UbVuIt-ixEbZ7do5G",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "zahira fashion-Formal Regular",
+            "newprice": 389,
+            "oldprice": 449,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1-CMktJrNVOub2DqEov3MAbnfbRQLtEmm",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        },   
+        {
+            "name": "KRIJET-Women one-piece",
+            "newprice": 999,
+            "oldprice": 1099,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1hbHBarh-vJ9vK_kC1BzA1Clb0_fhjx0N",
+            "description": "",
+            "category":"Clothing",
+            "type":"Womenclothing"
+        }, 
+        {
+            "name": "VTEXX-Green shirt",
+            "newprice": 999,
+            "oldprice": 1299,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1qeJ1ekIsTG1xwjD2RhKMVFqw45wT7ATy",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "VTEXX-Pink shirt",
+            "newprice": 999,
+            "oldprice": 1299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=10eHdm1FkeKZs4zamu7v7mlevPozrbAld",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "VTEXX-Maroon shirt",
+            "newprice": 999,
+            "oldprice": 1299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1vMJOxEtSFTOCFJD6l5AUbxpcPCysY-yS",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "Peter England - Men Trousers",
+            "newprice": 899,
+            "oldprice": 1499,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=15o_SoljQzu0UQcWtXlqfzhZU_AwN9dCr",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        
+        {
+            "name": "INDIAN TERRAIN-Men Tapered Green Polycotton Trousers",
+            "newprice": 1499,
+            "oldprice": 2199,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1-3H8BwQIer9hcYjUEX-9mMUfCtozSnW8",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "COMBRAIDED - Black Polycotton Trousers",
+            "newprice": 789,
+            "oldprice": 1299,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1fku1ALZzIbzKUeg6XOogvQlS073wflah",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "COMBRAIDED - White Polycotton Trousers",
+            "newprice": 588,
+            "oldprice": 792,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1PgZzgQEP4yhj0_HBk8DvkFbdyLC6H96o",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "GulGuli Solid Men Mandarin Collar White, Black T-Shirt",
+            "newprice": 789,
+            "oldprice": 1199,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1NNwYfDqC7AizGfhcwubercgoKgErYZD3",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "BLIVE Men Striped Round Neck Cotton Blend Maroon, Grey T-Shirt",
+            "newprice": 489,
+            "oldprice": 576,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=18qQt0IWL64FT4RCgQ_Qkh3Ptt28sk4Mk",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "BLIVE Men Striped Round Neck Cotton Blend Blue, Grey T-Shirt",
+            "newprice": 489,
+            "oldprice": 576,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=190hjpWSHysPTdIur-owaZ5_wjasB8MVc",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "FIBERMILL Men Solid Formal Light Blue Shirt",
+            "newprice": 439,
+            "oldprice": 1199,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1gT_YPRHKMoikBEE9vufFrQEUR5fPj1ik",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },    
+        {
+            "name": "STONEBERG - Men Solid Casual Shirt",
+            "newprice": 479,
+            "oldprice": 1299,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1yd6qjvhej338RWTfbckh3FEe5w8YTklZ",
+            "description": "",
+            "category":"Clothing",
+            "type":"Menclothing"
+        },  
+        {
+            "name": "ADIDAS GALAXY 6 Running Shoes For Men(White)",
+            "newprice": 3589,
+            "oldprice": 4500,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1NSc0BvQfo0fp6-4Wzh-rPJC7wlHAmApl",
+            "description": "",
+            "category":"Shoes",
+            "type":"Menshoes"
+        },
+        {
+            "name": "ADIDAS GALAXY 6 Running Shoes For Men(Blue)",
+            "newprice": 3589,
+            "oldprice": 4500,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1UjSaxWkfgrAbYCDCgRU-CNhvaLMtxdEm",
+            "description": "",
+            "category":"Shoes",
+            "type":"Menshoes"
+        },
+        {
+            "name": "ADIDAS GALAXY 6 Running Shoes For Men(Light Blue)",
+            "newprice": 3589,
+            "oldprice": 4500,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1k1WGuZRayvuw_wepMuBYqn_oBSBfeP4S",
+            "description": "",
+            "category":"Shoes",
+            "type":"Menshoes"
+        },
+        {
+            "name": "ADIDAS PREDATOR ACCURACY.3 FG Football Shoes For Men (Orange)",
+            "newprice": 4719,
+            "oldprice": 6999,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1q8Ru8ZqlS3xVFLdvOikDNp2zfqmkLfIn",
+            "description": "",
+            "category":"Shoes",
+            "type":"Menshoes"
+        },
+        {
+            "name": "ADIDAS Harquin M Running Shoes For Men(Black)",
+            "newprice": 2300,
+            "oldprice": 4299,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1nQZRl9aqq-kYQalJAquGd501vtgGF8jG",
+            "description": "",
+            "category":"Shoes",
+            "type":"Menshoes"
+        },
+        {
+            "name": "ADIDAS PaceRanger M Running Shoes For Men(White)",
+            "newprice": 3500,
+            "oldprice": 4599,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1rbvBqjmgIkUlq3zSJaTMJObIzr2XdLgj",
+            "description": "",
+            "category":"Shoes",
+            "type":"Menshoes"
+        },
+        {
+            "name": "ADIDAS RUNFALCON 3.0 W Running Shoes For Women (Silver)",
+            "newprice": 3588,
+            "oldprice": 4599,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1OPJu1z1hHb2WfZVGmr38Xbr7lb9-756A",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "ADIDAS RayRun W Running Shoes For Women (Blue)",
+            "newprice":2769 ,
+            "oldprice": 3999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=15340wLrQ2I7_pFdfvkUmQQHee2AqYXY6",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "ADIDAS RayRun W Running Shoes For Women (Silver)",
+            "newprice": 2769 ,
+            "oldprice": 3999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1rAKz4s-02V50kg1lWJE4N7jjvokhuM43",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Tronistor Black Stylish Casual Shoes For Womens And Girls Sneakers For Women (White)",
+            "newprice": 789,
+            "oldprice": 1299,
+            "rating":4.4,"imageurl":"https://drive.google.com/thumbnail?id=1SqSf_I_mcAHKdN7URRmOcSIQjahywjeR",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Fashion Tails",
+            "newprice": 599,
+            "oldprice": 749,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1A6mTwXqjBMOmNjuMx4zW-_VltdKZCfk-",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "SHOETOPIA Women Black Heels",
+            "newprice": 999,
+            "oldprice": 1299,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1nHAr1btneYEd4m9jHbiC1OqA2kGw4wIL",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Fashion Ride Women Heels",
+            "newprice": 699,
+            "oldprice": 849,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1xq-ioMAP2ytoBsH6rvSXbLW1D7rJgtgo",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Ophelia Women heels",
+            "newprice": 489,
+            "oldprice": 729,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ksGwBHwzanj6OfhrBDXvLhxdHEIPUGCX",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "SHOETOPIA Women Heels",
+            "newprice": 599,
+            "oldprice": 739,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1lsNXG6laDmIbpyc_sKuACNgzUAspsC6u",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Elle Women White Heels",
+            "newprice": 840,
+            "oldprice": 1599,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=16WuYHEsZTwzQ-vZ3oIJUr5OGBQl8PBxA",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Bata Women Grey Heels",
+            "newprice": 2499,
+            "oldprice": 3489,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1cIseOOrIeY2b_5GoIAfOqeAHVhRSrmKU",
+            "description": "",
+            "category":"Shoes",
+            "type":"Womenshoes"
+        },
+        {
+            "name": "Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way",
+            "newprice": 34999,
+            "oldprice": 43999,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1Jx_Ek6SDrOvpU9nF8jVyNXlJsa8giLb2",
+            "description": "Power Consumption: 1415 W /- Room Size: 111 to 150 sqft /- 10 years warranty on Inverter compressor /- 5 years warranty on PCB &1 year comprehensive warranty.",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "Voltas 1.5 Ton 3 Star Split Inverter AC - White",
+            "newprice": 33549,
+            "oldprice": 43999,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1k00VBNCr67W6i1l5aq0U2ByALu5JE7sx",
+            "description": "Power Consumption: 998.42 /- Room Size: 111 to 150 sqft /-1 Year Warranty on Product and 10 Years Warranty on Compressor",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split AI Dual Inverter 4 Way Swing",
+            "newprice": 75999,
+            "oldprice": 80999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1fTbt2GSdHYA11v80EONPqg43flTMQ2ro",
+            "description": "Power Consumption: 685.26 kWh/-Room Size: 111 to 150 sqft/-1 Year Warranty on Product, 5 Years Warranty on PCB and 10 Years Warranty on Compressor with Gas Charging",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter AC with Wi-fi",
+            "newprice": 38999,
+            "oldprice": 43999,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1b7sGXbTbGw0IPWd46JrojF7mqqbaoslI",
+            "description": "",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "Lloyd 1.5 Ton 3 Star Split AC - White",
+            "newprice": 36999,
+            "oldprice": 42999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1e_ZgJX5i1lpRvcx548aBw8lh2nH8_1G3",
+            "description": "Power Consumption: 1012.53 W/-Room Size: 111 to 150 sqft/-1 Year Comprehensive Warranty on Product and 5 Years Warranty on Compressor",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "Blue Star 1.5 Ton 3 Star Split Inverter AC - White",
+            "newprice": 42500,
+            "oldprice": 51999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1apOuCY0o2-OU5bqJvPDap61pAboiNbvP",
+            "description": "Power Consumption: 1980 W/-Room Size: 111 to 150 sqft/-1 Year on Product and Condenser, 10 Years on Compressor warranty from Blue Star.",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "Godrej Turbo Mode 2023 Model 1.5 Ton 3 Star Window with Anti Corrosive Blue Fin AC - White",
+            "newprice": 29999,
+            "oldprice": 36999,
+            "rating":3.8,
+            "imageurl":"https://drive.google.com/thumbnail?id=1wFIQGC01DOtrlGW1G9oESwl6I7g74OWe",
+            "description": "",
+            "category":"Electronics",
+            "type":"Air Conditioner"
+        },
+        {
+            "name": "Lenovo Intel Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 81WQ00MQIN|81WQ00NXIN Laptop",
+            "newprice": 29999,
+            "oldprice": 42999,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=15PCJxynGT4q4BF1VhAxDfBIC_g2C2HYe",
+            "description": "Intel Celeron Dual Core Processor/-8 GB DDR4 RAM/-64 bit Windows 11 Operating System/-256 GB SSD/-39.62 cm (15.6 Inch) Display/-2 Years Onsite�Warranty",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "HP 14s Intel Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14s - dy2507TU Thin and Light Laptop",
+            "newprice": 35999,
+            "oldprice": 41999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=13I_uBjp28YxbzaGqJa58SDaNZc5_fCp1",
+            "description": "Intel Core i3 Processor (11th Gen)/-8 GB DDR4 RAM/-64 bit Windows 11 Operating System/-256 GB SSD/-35.56 cm (14 inch) Display/-1 Year Onsite Warranty",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ322WS ",
+            "newprice": 34999,
+            "oldprice": 46999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1MUL5P0x1S2CljwexlVxUr57TqVuht97I",
+            "description": "Intel Core i3 Processor (11th Gen)/-8 GB DDR4 RAM/-64 bit Windows 11 Operating System/-512 GB SSD/-39.62 cm (15.6 Inch) Display/-1 Year Onsite Warranty",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "Acer Extensa (2023) Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) EX215-23 Notebook",
+            "newprice": 37999,
+            "oldprice": 51999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1tULwuV2g1azNIcYGGnP0DIIAWITOqpd4",
+            "description": "Stylish & Portable Thin and Light Laptop/-LPDDR5 RAM -faster & low power consuming/-Firmware TPM (Trusted Platform Module)-Improved Security of your PC/-FHD 1080p screen with 250 Nits brightness",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A",
+            "newprice": 79990,
+            "oldprice": 99999,
+            "rating":4.7,
+            "imageurl":"https://drive.google.com/thumbnail?id=1kEeW1Cfm7DX4RvFQ67YTwF2ViOeNKnNh",
+            "description": "Apple M1 Processor/-8 GB DDR4 RAM/-Mac OS Operating System/-256 GB SSD/-33.78 cm (13.3 inch) Display",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "ASUS Vivo AiO V241 Core i5 (8 GB DDR4/512 GB SSD",
+            "newprice": 55990,
+            "oldprice": 77999,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1SVpWh4Wcq1R39OvjUgoTdUwtk9RYgRsH",
+            "description": "Windows 11 Home/-Intel Core i5/-RAM 8 GB DDR4/-23.8 Inch Display",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "Assembled Intel Core 2 Duo (4 GB DDR3/500 GB/Windows 7 Ultimate/512 MB/15.6 Inch Screen/C2D/500/4GB)  (Multicolor)",
+            "newprice": 9999,
+            "oldprice": 29999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1pm_ESdAWnHMstSAjCDIz7lionWKItA-q",
+            "description": "This Computer is Assembled Computer build with as per available Cabinet, power supply, LED Monitor, Keyboard Mouse and other Accessories. The PC comes with Trial version 10 WINDOWS ARE TRIAL VERSION (Have to Contact Local Engineer for Installation) and Microsoft Office",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "Assembled 2000 Core i7 (16 GB DDR4/1 TB/128 GB SSD",
+            "newprice": 18999,
+            "oldprice": 52999,
+            "rating":3.8,
+            "imageurl":"https://drive.google.com/thumbnail?id=16lDeMA0-p3V9sl7TKthuuSXfbAjPg4kg",
+            "description": "Intel Core i7 Processor / 16GB Ram / 1TB Hard Disk / 128GB SSD / 20 Monitor / Windows 10 with MS Office / Keyboard and Mouse / Wifi / Bluetooth",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "Lenovo 23.8 inch Full HD VA Panel 3-Side Near Edgeless with TUV Eye Care Monitor (D24-20)",
+            "newprice": 7999,
+            "oldprice": 14999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1Tv6jgiZEx_otbLdKsrrYTHT-MPsqfllN",
+            "description": "Panel Type: VA Panel/-Screen Resolution Type: Full HD/-Response Time: 4 ms | Refresh Rate: 75 Hz/-3 Years Manufacturer Warranty",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "HP Pavilion Core i3 (4 GB DDR4/1 TB/Windows 10 Home",
+            "newprice": 41999,
+            "oldprice": 52999,
+            "rating":4.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=12DOaicu1kIIj89GZ5iBqDp1SgUQkWhMc",
+            "description": "Set up an entertainment or a work corner at home with this HP Windows 10 Home personal computer. This personal device features Multiple Connectivity options and a Rewritable DVD Drive to perform various daily tasks. Also, its stunning design enhances the charm of your home.",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "SAMSUNG Galaxy Book2 Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) NP750XEE-XB1IN",
+            "newprice": 75999,
+            "oldprice": 85999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=15eEE5hibQPNNIOX-vng2CrI4QNFj7nEj",
+            "description": "",
+            "category":"Electronics",
+            "type":"Laptop & Computers"
+        },
+        {
+            "name": "SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",
+            "newprice": 11999,
+            "oldprice": 13999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1mDFBXvqqnydTOOTj1LQKLwbTlrrhS8PE",
+            "description": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB/-16.76 cm (6.6 inch) Full HD+ Display/-50MP + 5MP + 2MP | 8MP Front Camera/- 6000 mAh Lithium Ion Battery/-Exynos 850 Processor",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "POCO C50 (Royal Blue, 32 GB)",
+            "newprice": 5689,
+            "oldprice": 8599,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1lNn8JeULk_rHVV7bjTflB7y2P5N7eQI_",
+            "description": "2 GB RAM | 32 GB ROM | Expandable Upto 512 GB/-16.56 cm (6.52 inch) HD+ Display/-8MP Dual Camera | 5MP Front Camera/-5000 mAh Lithium Polymer Battery/-Mediatek Helio A22 Processor, Upto 2.0 GHz Processor",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "realme C33 2023 (Sandy Gold, 128 GB)",
+            "newprice": 10499,
+            "oldprice": 13999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1qjCw7pPoye3QwceJFrhiPcZbYkVctlc3",
+            "description": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB/-16.51 cm (6.5 inch) HD+ Display/-50MP + 0.3MP | 5MP Front Camera/-5000 mAh Lithium Ion Battery/-Unisoc T612 Processor/-1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "APPLE iPhone 14 (Midnight, 128 GB)",
+            "newprice": 68999,
+            "oldprice": 79999,
+            "rating":4.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=1Wjb0Ety1wc7MJRlvfgfj0_ps-Bsyt9Wx",
+            "description": "128 GB ROM/-15.49 cm (6.1 inch) Super Retina XDR Display/-12MP + 12MP | 12MP Front Camera/-A15 Bionic Chip, 6 Core Processor Processor/-1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "APPLE iPhone 14 (Blue, 128 GB)",
+            "newprice": 68999,
+            "oldprice": 79999,
+            "rating":4.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=1-9yNNQSRiVoe2DOLmGgE0ky8Ufo4xEkV",
+            "description": "128 GB ROM/-15.49 cm (6.1 inch) Super Retina XDR Display/-12MP + 12MP | 12MP Front Camera/-A15 Bionic Chip, 6 Core Processor Processor/-1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name":"APPLE iPhone 14 (Red, 128 GB)",
+            "newprice": 68999,
+            "oldprice": 79999,
+            "rating":4.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=1T6CvQu37YNX61AEsj7UV5xlOd3jdZlIu",
+            "description": "128 GB ROM/-15.49 cm (6.1 inch) Super Retina XDR Display/-12MP + 12MP | 12MP Front Camera/-A15 Bionic Chip, 6 Core Processor Processor/-1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "APPLE iPhone 14 (White, 128 GB)",
+            "newprice": 68999,
+            "oldprice": 79999,
+            "rating":4.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ObqFO_3g3EbdbD_wdRnOXleV8CCKVEB_",
+            "description": "128 GB ROM/-15.49 cm (6.1 inch) Super Retina XDR Display/-12MP + 12MP | 12MP Front Camera/-A15 Bionic Chip, 6 Core Processor Processor/-1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "APPLE iPhone 14 (Yellow, 128 GB)",
+            "newprice": 68999,
+            "oldprice": 79999,
+            "rating":4.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=1-1IfLjANpuLAegZGh_i-tBVVjqvy6mAg",
+            "description": "128 GB ROM/-15.49 cm (6.1 inch) Super Retina XDR Display/-12MP + 12MP | 12MP Front Camera/-A15 Bionic Chip, 6 Core Processor Processor/-1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "Infinix SMART 7 (Azure Blue, 64 GB)",
+            "newprice": 7399,
+            "oldprice": 9999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1GZoT-G-kfAecToIVzcWTDsFxzkd_Xmbf",
+            "description": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB/-16.76 cm (6.6 inch) HD+ Display/-13MP + AI Lens | 5MP Front Camera/-6000 mAh Battery/-Unisoc Spreadtrum SC9863A1 Processor/-1 Year on Handset and 6 Months on Accessories",
+            "category":"Electronics",
+            "type":"Smartphones & Mobile"
+        },
+        {
+            "name": "SAMSUNG 189 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Digital Inverter",
+            "newprice": 17490,
+            "oldprice": 24999,
+            "rating":4.5,
+            "imageurl":"https://drive.google.com/thumbnail?id=1wCYtGAj9UEuNGtysofDNNfIJSmGbred_",
+            "description": "Digital Inverter Compressor/-Built-in Stabilizer/-1 year comprehensive warranty on product, 20 years on compressor, For all Refrigerators with Digital Inverter Compressors, sold on or after 1st Dec 2022 ",
+            "category":"Electronics",
+            "type":"Refrigerators"
+        },
+        {
+            "name": "Whirlpool 184 L Direct Cool Single Door 2 Star Refrigerator",
+            "newprice": 13999,
+            "oldprice": 14999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=15UWfHq2sIcIwmhEeQnXNcP5f-m2L5Y2N",
+            "description": "Normal Compressor/-Built-in Stabilizer/-1 Year on Product and 10 Years on the Compressor",
+            "category":"Electronics",
+            "type":"Refrigerators"
+        },{
+            "name": "Whirlpool 184 L Direct Cool Single Door 2 Star Refrigerator",
+            "newprice": 13999,
+            "oldprice": 14999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1djlwaWVYMFbbIXuTvBPZbbZqnDxIEmi7",
+            "description": "Normal Compressor/-Built-in Stabilizer/-1 Year on Product and 10 Years on the Compressor",
+            "category":"Electronics",
+            "type":"Refrigerators"
+        },{
+            "name": "Whirlpool 184 L Direct Cool Single Door 2 Star Refrigerator",
+            "newprice": 12390,
+            "oldprice": 15900,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1io_a2O7dBp8fsCLthpOlMxFlbbw8by8N",
+            "description": "Normal Compressor/-Built-in Stabilizer/-1 Year on Product and 10 Years on the Compressor",
+            "category":"Electronics",
+            "type":"Refrigerators"
+        },{
+            "name": "Whirlpool 240 L Frost Free Triple Door Refrigerator",
+            "newprice": 25790,
+            "oldprice": 35999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1DNn0B76M9Gu5KM1YrRzO3_vyhAJqmRZ3",
+            "description": "Normal Compressor/-Built-in Stabilizer/-1 Year on Product and 10 Years on the Compressor",
+            "category":"Electronics",
+            "type":"Refrigerators"
+        },
+        {
+            "name": "LG UQ7500 108 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV 2022 Edition",
+            "newprice": 36999,
+            "oldprice": 41999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1HrjZzxrKjGx1OTDsSKiw3RZaFb_JCVfc",
+            "description": "Operating System: WebOS/-Ultra HD (4K) 3840 x 2160 Pixels/-1 Year LG India Comprehensive Warranty and additional 1 year Warranty is applicable on Panel/Module from the date of purchase.",
+            "category":"Electronics",
+            "type":"Television"
+        },
+        {
+            "name": "Acer I Series 80 cm (32 inch) HD Ready LED Smart Android TV with Android 11, 1.5GB RAM (2022 Model)",
+            "newprice": 10999,
+            "oldprice": 15999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1V610T5rUbinqpYX-P1POP-Yj7JLVvuxA",
+            "description": "Operating System: Android/-HD Ready 1366 x 768 Pixels/-1 Year Warranty",
+            "category":"Electronics",
+            "type":"Television"
+        },
+        {
+            "name": "OnePlus Y1S 80 cm (32 inch) HD Ready LED Smart Android TV with Android 11 and Bezel-Less Frame",
+            "newprice": 15999,
+            "oldprice": 17999,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1l-Eb5KPdD3vFlfJp8W3tBaEojRfVLtzG",
+            "description": "Operating System: Android/-HD Ready 1366 x 768 Pixels/-1 Year Comprehensive Warranty and Additional 1 Year on Panel Provided By the Manufacturer From Date of Purchase",
+            "category":"Electronics",
+            "type":"Television"
+        },
+        {
+            "name": "Infinix Y1 80 cm (32 inch) HD Ready LED Smart Linux TV with Wall Mount",
+            "newprice": 8399,
+            "oldprice": 16999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1rcwSVv6QFolwpz0SBqE2Cs4EUWhOphLz",
+            "description": "Operating System: Linux/-HD Ready 1366 x 768 Pixels/-1 Year Domestic Warranty",
+            "category":"Electronics",
+            "type":"Television"
+        },
+        {
+            "name": "Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)",
+            "newprice": 11999,
+            "oldprice": 13999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1SbLM5aI0quYn47aylIHOmpEEE3ChPMqM",
+            "description": "Operating System: Android/-HD Ready 1366 x 768 Pixels/-1 Year Warranty on Product and 2 Years Warranty on Panel. OEM",
+            "category":"Electronics",
+            "type":"Television"
+        },
+        {
+            "name": "SAMSUNG Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Black",
+            "newprice": 32999,
+            "oldprice": 49600,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1EuGNMD4OuvGA7TM1ZBRRA8UiXyBy_B0y",
+            "description": "Operating System: Tizen/-Ultra HD (4K) 3840 x 2160 Pixels/-1-year comprehensive warranty on product and 1 year additional on Panel provided by the brand from the date of purchase",
+            "category":"Electronics",
+            "type":"Television"
+        },
+        {
+            "name": "SAMSUNG 6 kg 5 Star With Hygiene Steam and Ceramic Heater Fully Automatic Front Load Washing Machine",
+            "newprice": 23490,
+            "oldprice": 26500,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1LA1ADNePPHzg6rv6hGgMXxLfO3sstc7E",
+            "description": "1000 rpm Max Speed/-5 Star Rating/-For all Fully Automatic Washing Machines with Digital Inverter Motors, sold on or after 1st Dec 2022 ",
+            "category":"Electronics",
+            "type":"Washingmachine"
+        },
+        {
+            "name": "LG 7 kg with Smart Diagnosis and Smart Inverter Fully Automatic Top Load Washing Machine Silver",
+            "newprice": 17490,
+            "oldprice": 21999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1cmsM14jnDKxOO_vj6BB8_ox0UQGqGpzQ",
+            "description": "700 rpm Max Speed/-5 Star Rating/-2 Years Comprehensive Warranty and 10 Years Warranty on Motor from LG",
+            "category":"Electronics",
+            "type":"Washingmachine"
+        },
+        {
+            "name": "IFB 6 kg Steam Wash, Hard Water Wash, Active Color Protection 4 years Comprehensive Warranty",
+            "newprice": 21999,
+            "oldprice": 26999,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1LNYZzVEUOlihkO_leOylLv3DG5zDu6AT",
+            "description": "800 rpm Max Speed/-5 Star Rating/-4 Years Comprehensive Warranty, 10 Years Motor Warranty, 10 Years Spares Support",
+            "category":"Electronics",
+            "type":"Washingmachine"
+        },
+        {
+            "name": "LG 8 kg Roller Jet Pulsator, Wind Jet dry, 5 Star rated Semi Automatic Top Load Washing Machine ",
+            "newprice": 14490,
+            "oldprice": 19999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=19efRDBSl1t3QiUV9rs2LNMjng6jZRW7E",
+            "description": "1300 rpm Max Speed/-5 Star Rating/-2 Years Comprehensive Warranty on product/- 5 Years Warranty on Motor",
+            "category":"Electronics",
+            "type":"Washingmachine"
+        },
+        {
+            "name": "LG 9 kg Fully Automatic Front Load Washing Machine with In-built Heater Black",
+            "newprice": 10,
+            "oldprice": 15.67,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1pk1f_R0rlFlqeKzjN7fFNdMuZx6leTS7",
+            "description": "1400 rpm Max Speed/-5 Star Rating/- 2 Years Comprehensive Warranty on Product and 10 Years Warranty on Motor",
+            "category":"Electronics",
+            "type":"Washingmachine"
+        },
+        {
+            "name": "BOSCH 9 kg 1400RPM Fully Automatic Front Load Washing Machine with In-built Heater WHite",
+            "newprice": 46900,
+            "oldprice": 75999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1OyaAMseQ9NTDqWgBS72sGO3gwTlc5b03",
+            "description": "1000 rpm Max Speed,2 Years Comprehensive on Product , 12 Years on Motor",
+            "category":"Electronics",
+            "type":"Washingmachine"
+        },
+        {
+            "name": "Bharat Lifestyle Amsterdam Engineered Wood Queen Bed",
+            "newprice": 9999,
+            "oldprice": 11999,
+            "rating":3.7,
+            "imageurl":"https://drive.google.com/thumbnail?id=15uidrbFHuJzZUyw6VtrSZvJ3VTt2WrI-",
+            "description": "Finish Color - Wenge, Delivery Condition - Knock Down",
+            "category":"Furniture",
+            "type":"Bed & mattresses"
+        },
+        {
+            "name": "@Home by nilkamal Marbito Engineered Wood Queen Bed",
+            "newprice": 16999,
+            "oldprice": 19999,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1e6Un3bSc2VoYseAmz8mGDIwG14JpUJLN",
+            "description": "Finish Color - White, Delivery Condition - Knock Down",
+            "category":"Furniture",
+            "type":"Bed & mattresses"
+        },
+        {
+            "name": "Perfect Homes Opus Engineered Wood King Bed",
+            "newprice": 14499,
+            "oldprice": 16999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1lWrjuCJkpZFqjvVvT5sieUz6WuSwhy7G",
+            "description": "Finish Color - American Espresso, Delivery Condition - Knock Down",
+            "category":"Furniture",
+            "type":"Bed & mattresses"
+        },
+        {
+            "name": "Perfect Homes Waltz Engineered Wood Queen Box",
+            "newprice": 13599,
+            "oldprice": 17999,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1picX28vGZXI_APaoIbI36RAUW8kpwnj9",
+            "description": "Finish Color - American Espresso, Delivery Condition - Knock Down",
+            "category":"Furniture",
+            "type":"Bed & mattresses"
+        },
+        {
+            "name": "SleepyCat Dreamer Orthopaedic Memory Dual Comfort 8 inches",
+            "newprice": 14299,
+            "oldprice": 18999,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1XjQgzcyB8FN4WYDrL2bKVTtSwiuAspju",
+            "description": "L x W: 75 inch x 60 inch",
+            "category":"Furniture",
+            "type":"Bed & mattresses"
+        },
+        {
+            "name": "Bharat Lifestyle Amsterdam Engineered Wood Queen Bed",
+            "newprice": 10499,
+            "oldprice": 21999,
+            "rating":3.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=14iQfopYbNRumtqHRQkmoKroqgvtmmawO",
+            "description": "Finish Color - Wenge & White, Delivery Condition - Knock Down",
+            "category":"Furniture",
+            "type":"Bed & mattresses"
+        },
+        {
+            "name": "Fission Decor 214 cm (7 ft) Velvet Room Darkening Door Curtain",
+            "newprice": 799,
+            "oldprice": 899,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=10_pKZ3sJGidb4Y9QPlzfBS8FUhjoyH7v",
+            "description": "Floral, Aqua",
+            "category":"Furniture",
+            "type":"Curtains"
+        },
+        {
+            "name": "Home Sizzler 214 cm (7 ft) Polyester Semi Transparent Door Curtain (Pack Of 2)  (Floral, Brown)",
+            "newprice": 449,
+            "oldprice": 699,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1d9QP8ZIaqYv42emxDvoZJugn-HiVTInv",
+            "description": "Floral, Brown",
+            "category":"Furniture",
+            "type":"Curtains"
+        },
+        {
+            "name": "Home Sizzler 213 cm (7 ft) Polyester Semi Transparent Door Curtain",
+            "newprice": 499,
+            "oldprice": 799,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1y1hc-E1hEQkXbGeBdw567xEF4e78PYrY",
+            "description": "Printed, Green",
+            "category":"Furniture",
+            "type":"Curtains"
+        },
+        {
+            "name": "Stella Creations 152 cm (5 ft) Polyester Room Darkening Curtain",
+            "newprice": 399,
+            "oldprice": 599,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ecbBLzwonjn-5ePiyT4GuBfplHTyRCG4",
+            "description": "Abstract, Wine",
+            "category":"Furniture",
+            "type":"Curtains"
+        },
+        {
+            "name": "Home Sizzler 274 cm (9 ft) Polyester Semi Transparent Long Curtain",
+            "newprice": 499,
+            "oldprice": 799,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1d9tNWWKJuwOEHclPX8HwdA_1BmuPG5ZS",
+            "description": "Floral, Grey",
+            "category":"Furniture",
+            "type":"Curtains"
+        }, 
+        {
+            "name": "Seetara Seven Chakra 200 beads Crystal Bonsai Money Tree",
+            "newprice": 864,
+            "oldprice": 999,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1k310M0nyfDQtdY_O-C9lwHeZNH9bYHmI",
+            "description": "Wood, Crystal, Stone, Multicolor",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "Royalbox Meditating Buddha Statue For Home Decor Idol",
+            "newprice": 269,
+            "oldprice": 399,
+            "rating":4.3,
+            "imageurl":"https://drive.google.com/thumbnail?id=1erwZpwU5ZZzCG5x7IxM337e6mPNh61nI",
+            "description": "Polyresin, Blue",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "Fashion Bizz Set of 4 Baby Monk Hat Buddha Figurines ",
+            "newprice": 219,
+            "oldprice": 489,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1vmTQhk8QSdYAC7gSwrVUu4cwFc-K-q_8",
+            "description": "Polyresin, Multicolor",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "Miss Peach Religious Idols of Lord Shiva Smoke Backflow",
+            "newprice": 217,
+            "oldprice": 379,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1-1ah5h0DpdyD0RokCqrsU0Wj3Sjm941-",
+            "description": "Polyresin, Black",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "BECKON VENTURE Handcrafted Lord Ganesha Idols for home ",
+            "newprice": 280,
+            "oldprice": 379,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1q6iS8seLO_kroz2ewsqImIT4WfTAidNk",
+            "description": "",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "Dinine Craft Adiyogi Shiva Statue Polyresin Showpiece ",
+            "newprice": 179,
+            "oldprice": 278,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1hKIidAJqfCsIwpzzBmb3zAolZYQSYJ2W",
+            "description": "Polyresin, Black",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "eHouse of Crafts Resin Love Couple with Metal Umbrella",
+            "newprice": 239,
+            "oldprice": 356,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1xjG5k-SlDj_I_-QDHthiNr0sS1OS-0Ov",
+            "description": "Polyresin, Multicolor",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "gs creation tan Analog 23 cm X 33 cm Wall Clock",
+            "newprice": 249,
+            "oldprice": 349,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1a6Az0S9faA0Bn-WqKSv0V6Gm1M0RTuD-",
+            "description": "Multicolor, With Glass, Standard",
+            "category":"Furniture",
+            "type":"Decoration"
+        },
+        {
+            "name": "Godrej Interio Onyx (Without Chairs) Engineered Wood",
+            "newprice": 26999,
+            "oldprice": 29999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1sQf1MFnMZQqGJM888rCydM8HBTcKd0wm",
+            "description": "Finish Color - Cappuccino, Knock Down",
+            "category":"Furniture",
+            "type":"DiningTable"
+        },
+        {
+            "name": "LOONART Solid Wood Four Seater Dining Set",
+            "newprice": 15074,
+            "oldprice": 17999,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1gF335PCf3zntJ2n5GNeCnGFfSLabettP",
+            "description": "Finish Color - walnut finish, Pre-assembled",
+            "category":"Furniture",
+            "type":"DiningTable"
+        },
+        {
+            "name": "Vinayak Art Place Solid Wood 6 Seater Dining Table",
+            "newprice": 25499,
+            "oldprice": 28999,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ZXIl1QL155ryLXm9bdUotlk1h4n_DpjX",
+            "description": "Finish Color - Natural Brown",
+            "category":"Furniture",
+            "type":"DiningTable"
+        },
+        {
+            "name": "WOOD AFFAIR Solid Wood 6 Seater Dining Table",
+            "newprice": 23999,
+            "oldprice": 26999,
+            "rating":3.8,
+            "imageurl":"https://drive.google.com/thumbnail?id=1-4ft91r-vxfyRwRpsoy6ek77dtsV2NPM",
+            "description": "Finish Color - NATURAL COLOR",
+            "category":"Furniture",
+            "type":"DiningTable"
+        },
+        
+        {
+            "name": "duroflex Ease Fabric 1 Seater Sofa",
+            "newprice": 8964,
+            "oldprice": 7538,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1TT9eVgb7NLKTAaMXnuCymc7iGe0aLGdX",
+            "description": "Finish Color - Beige",
+            "category":"Furniture",
+            "type":"Sofa"
+        },
+        {
+            "name": "Taskwood Furniture Solid Wooden Fabric Three Seater Sof.",
+            "newprice": 13599,
+            "oldprice": 10233,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=10v2tFIMPShxZY-VaVI8Taid3URrXFmz4",
+            "description": "Finish Color - Natural Teak",
+            "category":"Furniture",
+            "type":"Sofa"
+        },
+        {
+            "name": "Bharat Lifestyle Tulip Fabric 3 + 1 + 1 Sofa Set",
+            "newprice": 15999,
+            "oldprice": 19897,
+            "rating":3.6,
+            "imageurl":"https://drive.google.com/thumbnail?id=1wtMA0Km50MauYxwXP2eRqjtJWNkABjS-",
+            "description": "Black",
+            "category":"Furniture",
+            "type":"Sofa"
+        },
+        {
+            "name": "Bharat 3 Seater Sofa",
+            "newprice": 14999,
+            "oldprice": 17899,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1XUXQI1VIwHOV6wHfTdVycRRUiUbrTrGW",
+            "description": "Black & White",
+            "category":"Furniture",
+            "type":"Sofa"
+        },
+        {
+            "name": "Bharat Lifestyle Alina Fabric 3 Seater Sofa",
+            "newprice": 13499,
+            "oldprice": 15899,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1aCd6_EuoQOy1VJ1Y2TVYE1GBC82fbfQK",
+            "description": "Finish Color - Yellow",
+            "category":"Furniture",
+            "type":"Sofa"
+        },
+        {
+            "name": "Dr Smith Fabric 3 Seater Sofa",
+            "newprice": 16757,
+            "oldprice": 28999,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1cABQeRsb_oJh-P02aDQpIHd0V26iVnTZ",
+            "description": "Finish Color - Green",
+            "category":"Furniture",
+            "type":"Sofa"
+        },
+        {
+            "name": "khatushyam collection Women Pink Hand-held Bag",
+            "newprice": 369,
+            "oldprice": 489,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1DVUy7AfQhuE9InMqzV49jDwYo87HeLX8",
+            "description": "",
+            "category":"Bags & Purses",
+            "type":"Bags & Purses"
+        },
+        {
+            "name": "khatushyam collection Women Red Hand-held Bag",
+            "newprice": 369,
+            "oldprice": 489,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1sQQpKf1nwL7T2IEAgW0Dpb01KianzaTG",
+            "description": "",
+            "category":"Bags & Purses",
+            "type":"Bags & Purses"
+        },
+        {
+            "name": "Clovia Women Bag",
+            "newprice": 314,
+            "oldprice": 568,
+            "rating":3.9,
+            "imageurl":"https://drive.google.com/thumbnail?id=1KCOrBDeqi26urGmtSJvGAVJUwdTqNdtz",
+            "description": "",
+            "category":"Bags & Purses",
+            "type":"Bags & Purses"
+        },
+        {
+            "name": "Classic Fashions",
+            "newprice": 378,
+            "oldprice": 499,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1sQpCn-pAP0Nh0M8ux9ZI38b4fLwGvtVL",
+            "description": "",
+            "category":"Bags & Purses",
+            "type":"Bags & Purses"
+        },
+        {
+            "name": "KLEIO Women bag",
+            "newprice": 1099,
+            "oldprice": 1599,
+            "rating":3.7,
+            "imageurl":"https://drive.google.com/thumbnail?id=1VtF3irGna5YRee10dAqNGR5PiCxUfXJg",
+            "description": "",
+            "category":"Bags & Purses",
+            "type":"Bags & Purses"
+        },
+        {
+            "name": "Fargo Women Bag",
+            "newprice": 332,
+            "oldprice": 456,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1FMKpufva8toyIO5a-nc5-GbYWxcfQkMU",
+            "description": "",
+            "category":"Bags & Purses",
+            "type":"Bags & Purses"
+        },
+        {
+            "name": "YELLOW CHIMES Bracelet",
+            "newprice": 148,
+            "oldprice": 299,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1hGLfgiVfd8IIIZ0JUkj3f_wnQYqoBQ1Z",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Bracelet"
+        },
+        {
+            "name": "MYKI BRACELET",
+            "newprice": 413,
+            "oldprice": 599,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1r8h6g9hYegLI7rEfQCWShVOOj7OIzVbH",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Bracelet"
+        },
+        {
+            "name": "Nilu's Collection Alloy Sterling Silver Bracelet(Violet)",
+            "newprice": 399,
+            "oldprice": 499,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1BS8_-ogdJTZ1-TDLUbTHJFYgcjh6JdnH",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Bracelet"
+        },
+        {
+            "name": "YELLOW CHIMES Bracelet",
+            "newprice": 196,
+            "oldprice": 249,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1lSrG26s3WHH_0PusS4PIP5T-lG_VUu4B",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Bracelet"
+        },
+        {
+            "name": "Vembley Bracelet",
+            "newprice": 191,
+            "oldprice": 299,
+            "rating":3.8,
+            "imageurl":"https://drive.google.com/thumbnail?id=1PLsaoDVoLPFatOCfpCHJ8coG8Ov-eKAI",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Bracelet"
+        },
+        {
+            "name": "JK Industries",
+            "newprice":249,
+            "oldprice": 378,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ZyaezDBwy8vcBp0R24KGYfFZEwjlhlAl",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Bracelet"
+        },
+        
+        {
+            "name": "SHI Jewellery",
+            "newprice": 180,
+            "oldprice": 230,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1m3PdrofC9cDRw7u2tHCJQtSMVmANhfo6",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "Vembley Combo 9 Pair Stunning Gold Plated Pearl Hoop Earrings Alloy Hoop Earring",
+            "newprice":245 ,
+            "oldprice":350,
+            "rating":4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1v0QTvjPwgz_y0LsmxHesJuxKIMXli5uP",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "MYKI Beautiful Flower shape Zircon Earrings For Women & Girls Swarovski Zirconia Metal Drops & Danglers",
+            "newprice": 367,
+            "oldprice": 450,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1a4s8qO3AKtGWE3hlvIgOvRBJD__VjgPd",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "YELLOW CHIMES Ethnic Gold Plated Peach Meenakari Touch Traditional Earring",
+            "newprice": 219,
+            "oldprice": 250,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1gI447Hh1cepECBcxh5kUD1AkPqcncqQ4",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "brado jewellery Rose Gold Plated White and Black AD Studded Drop Earrings(Pink)",
+            "newprice": 165,
+            "oldprice": 189,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=163C8N8WokOOm4BcNBsjwoBhJ7AvygFxD",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "brado jewellery Rose Gold Plated White and Black AD Studded Drop Earrings(Blue)",
+            "newprice": 165,
+            "oldprice": 189,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1TfG0M4-11pH5wxvwYUkwa-NHpoRHd__O",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "brado jewellery Rose Gold Plated White and Black AD Studded Drop Earrings(Green)",
+            "newprice": 165,
+            "oldprice": 189,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ZHdq454VRgLRzZFb_DKqzLYLXlBFd65a",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "DESTINY JEWEL'S Earrings",
+            "newprice": 220,
+            "oldprice": 399,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1XvqNAN90u7N7GGSEQj09_p899PNNofMg",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "AVR JEWELS Korean Earring",
+            "newprice": 199,
+            "oldprice": 259,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1-bhVZPDfHRZ8UoQifnWDhvcertshP3GV",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "darpan Trend Earrings",
+            "newprice": 176,
+            "oldprice": 249,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=15BI9tlrIbFnwsr_SDNhQVQf4v1mfxIJ4",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "darpan Trendy Korean Fashion Pearl Bow Earrings & Studs Pearl,...",
+            "newprice": 186,
+            "oldprice": 248,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=18_z-Do_HD6Vok0yivIYEHBE6i93aFsiY",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "DESTINY JEWEL'S New Trend Korean Style Gold Plated Flower Earrings",
+            "newprice": 199,
+            "oldprice": 249,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1Cbu7JBtZxTI57Y6lFljWFl4CP2yfsap5",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        
+        {
+            "name": "YELLOW CHIMES Ethnic Gold Plated Yellow Enamel Handpainted Design",
+            "newprice": 205,
+            "oldprice": 249,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=13-XuTyB2ehjdKXD33wD1_3IsTulwWOOX",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "YELLOW CHIMES Ethnic Gold Plated Red Meenakari Traditional Kundan Studded Floral Design Pearl",
+            "newprice": 385,
+            "oldprice": 445,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1hoZcFatByvMlCsZt7_6DmPmbmbL96AEc",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Earrings"
+        },
+        {
+            "name": "brado jewellery Brass(Pink)",
+            "newprice": 189,
+            "oldprice": 225,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ktjBT0EM1DyC1RRz0EO-Xteq0r1I7TFy",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Necklace"
+        },
+        {
+            "name": "brado jewellery Brass(Black)",
+            "newprice": 189,
+            "oldprice": 225,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=13-HGU4FLh2L_YOmS90JsJltpNnPmMXcd",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Necklace"
+        },
+        {
+            "name": "R A Enterprises Alloy Rhodium Silver Jewel Set",
+            "newprice": 293,
+            "oldprice": 389,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=13V_NfLNyaXx2pdUmoWHJ-pDE-PG2Xc4i",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Necklace"
+        },
+        
+        {
+            "name": "Fancy kf Alloy Silver Rose Gold, White Jewellery Set",
+            "newprice": 319,
+            "oldprice": 349,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1egBqbfA7VyLn8Vhau3F8B_A3M_cPiuPT",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Necklace"
+        },
+        {
+            "name": "Aashish Imitation Alloy Set",
+            "newprice": 396,
+            "oldprice": 445,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1HpFEjqE_XlEgzAdfb4IxcW2Wf22ZG68y",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Necklace"
+        },
+        {
+            "name": "ROFARWORD Brass Jewel Set",
+            "newprice": 246,
+            "oldprice": 389,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1GfOTyernlvCWD6UrVa3GLrFqAQXyMrtP",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Necklace"
+        },
+        {
+            "name": "Fashion Frill Roma Ring Set",
+            "newprice": 209,
+            "oldprice": 352,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1Uy-ncz81Uu_CLPPHNcEyZFpVT-b5CodW",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        },
+        {
+            "name": "Vembley Silver Set",
+            "newprice": 195,
+            "oldprice": 258,
+            "rating":4.1,
+            "imageurl":"https://drive.google.com/thumbnail?id=1kB4OF7OnxIFed43zltSOycIpYdzp5sLV",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        },
+        {
+            "name": "MYKI Sizzling Solitaire Adjustable Ring For Women & Girls",
+            "newprice": 265,
+            "oldprice": 350,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1bE34Dbh1nZHg4K3WCzrpvsRTI8J194js",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        },
+        {
+            "name": "MYKI Classy Ring Set",
+            "newprice": 247,
+            "oldprice": 358,
+            "rating":4.2,"imageurl":"https://drive.google.com/thumbnail?id=1ovMTokVkEf0PdPEGzuXlZMxIHt2bLkin",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        },
+        {
+            "name": "MYKI Valentine Ring",
+            "newprice": 352,
+            "oldprice": 472,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1pz67nwUZjJQxiDZq-Orzix13e3hAn0s6",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        },
+        {
+            "name": "Karishma Kreations Adjustable Ring",
+            "newprice": 219,
+            "oldprice": 245,
+            "rating":4.2,
+            "imageurl":"https://drive.google.com/thumbnail?id=1ri4wTPwKFsUhoxBTcyF7KhCe77Xhhl87",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        },
+        {
+            "name": "Devora Endless Ring set",
+            "newprice": 224,
+            "oldprice": 369,
+            "rating":4.4,
+            "imageurl":"https://drive.google.com/thumbnail?id=1nVGM7aTnVTnnIZnMt4XhiuCyYi3FAJvz",
+            "description": "",
+            "category":"Jewellery",
+            "type":"Ring"
+        }
+        
+
+    ]
+}

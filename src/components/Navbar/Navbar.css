@@ -1,0 +1,52 @@
+.navbar1 .flexitem{
+    display:flex;
+    align-items: center;
+}
+.navbar1 .flexitem li a{
+    color:black;
+    /* font-size:15px; */
+    font-weight: 400;
+}
+.navbar1 .flexitem a:hover{
+    color: rgb(47, 75, 236);
+}
+.women-brands li:hover{
+    background-color:rgb(255, 125, 105); ;
+}
+
+
+.navbar1 .wrapper{
+    
+    justify-content: space-between;
+    
+}
+.navbar1 .li{
+    position: relative;
+}
+.navbar1 .flexitem li{
+    padding:0.5em 0em;
+}
+.navbar1 .wrapper ul{
+    /* margin: 0.5em 0em; */
+}
+.navbar1 .row{
+    position: absolute;
+    background-color: #ffc1bc;
+    z-index:3;
+}
+.navbar1 ul{
+    margin:0em;
+}
+.navbar1 .right .flexitem ul{
+    position: absolute;
+
+}
+.navbar1 .flexcol .account li{
+    padding: 0em 2.5em;
+}
+.navbar1 .flexcol .account li:hover{
+    background-color: #ef7777;
+}
+/* .navbar1 .women-brands li:hover,.navbar1 .account li:hover{
+    background-color:#ffa6a6;
+} */

@@ -1,0 +1,38 @@
+.products-container {
+    display: flex;
+    overflow-x: scroll;
+    gap: 1em;
+    -ms-overflow-style: none; /* Hide scrollbar on Internet Explorer and Microsoft Edge */
+    scrollbar-width: none; /* Hide scrollbar on Firefox */
+  }
+  
+  .products-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar on Chrome, Safari, and Opera */
+  }
+.show-all-button {
+    background-color: #3366ff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 3.5em;
+    height: 3.5em;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    margin:6em 1em;
+    padding: 1em;
+    transition: background-color 0.3s ease;
+  }
+  
+  .show-all-button:hover {
+    background-color: #3048c0;
+  }
+  .item-container{
+    display: grid;
+  grid-row-gap: 1em;
+  }
+  
+  

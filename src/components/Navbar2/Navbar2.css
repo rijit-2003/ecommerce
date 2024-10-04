@@ -1,0 +1,71 @@
+
+.navbar2 .flexitem{
+    display:flex;
+    align-items: center;
+}
+.navbar2 .flexitem li a{
+    color:white;
+}
+.navbar2 .flexitem li{
+    padding:0.5em 0em;
+}
+.navbar2 h4{
+    color:white;
+    font-family: "Arial Rounded MT";
+}
+.navbar2 .flexitem a:hover{
+    color: violet;
+}
+.navbar2 .wrapper{
+    /* font-size:15px; */
+    font-weight: 400;
+    justify-content: space-between;
+    /* line-height:35px; */
+}
+/* .navbar2 .wrapper .list .row{
+    line-height:25px;
+} */
+.navbar2 .li{
+    position: relative;
+}
+
+.navbar2 .list{
+    position:absolute;
+    /* width: 100%; */
+    /* height: auto;
+    top:auto;
+    left:0;
+    right:0; */
+    /* padding: 0em 1em; */
+    line-height:2em;
+    background-color: rgb(59, 58, 58);
+    box-shadow: white 0 30px 20px -30px;
+    z-index:2;
+    
+    
+    padding-bottom: 0.75em;
+    /* display:none; */
+    /* max-width: 300px; */
+}
+.navbar2 .list .wrapper{
+    display:flex;
+    margin-top:1em;
+}
+
+.navbar2 .list .container{
+    padding : 0em 1em;
+}
+
+.navbar2 .flexcol .row{
+    margin-top: 0;
+    margin-right:0;
+    margin-left: 0;
+}
+.navbar2 ul{
+    margin:0em;
+}
+.list .flexcol .row h4{
+    font-size: 1.25em;
+}
+
+

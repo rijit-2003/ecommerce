@@ -1,0 +1,19 @@
+.Login,.Signup{
+  min-height: 80vh;
+  width:100%; 
+  background-image:url('https://t3.ftcdn.net/jpg/03/48/55/20/360_F_348552050_uSbrANL65DNj21FbaCeswpM33mat1Wll.jpg');
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.Login .formclass,.Signup .form{
+    /* position:absolute;
+    min-width:450px; */
+    background-color:white;
+    padding:40px;
+    border-radius:20px;
+}
